@@ -10,3 +10,4 @@
 - [25-01-2022](https://transcripts.gotomeeting.com/#/s/e3178e13f811d67f1ba3695a0c7c621b39af4fa64fd95da6b6a2b0bc91fa48d1)
 - [27-01-2022](https://transcripts.gotomeeting.com/#/s/ab45cc89061af021fe257da7b9bde1fe04b7178c3c6fa53b2b1ebc22600dd668)
 - [28-01-2022](https://transcripts.gotomeeting.com/#/s/0e9f1a721333eea361c071e168114f0dcab1dc84ea13f53ce3c2b9086abf3e94)
+- [29-01-2022](https://transcripts.gotomeeting.com/#/s/38a74aa204fb77af5fda9f0e347b7b7b5d0cdef196129983c470603939ed8e4b)
